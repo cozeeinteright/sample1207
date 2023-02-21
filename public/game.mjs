@@ -1,5 +1,5 @@
 import {Cat} from './cat.mjs';
 
-let cat = new Cat("alice");
+let cat = new Cat("John");
 
 cat.sayHi()
